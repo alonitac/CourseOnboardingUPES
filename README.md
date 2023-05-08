@@ -7,7 +7,9 @@
 First, you have to have access to Linux operating system (OS). 
 Throughout this course we will be using **Ubuntu**, which is a common [distribution of Linux](https://en.wikipedia.org/wiki/Linux_distribution).
 We recommend using either version **20.04** or **22.04**, to your choice.
-Below you'll find various ways to install Ubuntu.
+Below you'll find various ways to install Ubuntu. Please make sure you install it before the course starts, so we can start smoothly. 
+
+Feel free to [open an issue](https://github.com/alonitac/CourseOnboardingUPES/issues) if you're facing installation problems.
 
 ### Virtualized Ubuntu using VirtualBox
 
@@ -25,11 +27,9 @@ https://ubuntu.com/tutorials/install-ubuntu-desktop
 To install Ubuntu along with your existed Windows:   
 https://www.freecodecamp.org/news/how-to-dual-boot-windows-10-and-ubuntu-linux-dual-booting-tutorial/
 
-
-
 ## Tools
 
-Since all sessions contain hands-on exercises, we recommend that you'll install and use all the below tools on the installed Linux distributions.
+We recommend that you'll install and use all the below tools on your fresh installed Ubuntu.
 In case you decide to work on another operating system, we cannot provide too much support for these during class.
 
 - Git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
